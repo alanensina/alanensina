@@ -1,9 +1,9 @@
 # Hello everybody!
 
 ### Who am I?
-My name's Alan Ensina, I'm 30 years old and I live in Florianópolis, Brazil.
-<p>I love technology and to meet new people and new places. 
-<p>My dream is to live in a place where I can make a difference on people's life.
+<p>Software developer, 30 years old, living in Florianópolis/Brazil.
+<p>Graduated in Human Resources and a MBA in People's Management.
+<p>Currently studying Bachelor's Information Systems. I’m passionate for technology and programming.
   
 
 ### Technologies that I use to work:
