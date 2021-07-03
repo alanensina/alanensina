@@ -1,7 +1,7 @@
 # Hello everybody!
 
 ### Who am I?
-<p>Software developer, 30 years old, living in Florianópolis/Brazil.
+<p>Software developer, 30 years old, living in Limeira/Brazil.
 <p>Graduated in Human Resources and a MBA in People's Management.
 <p>Currently studying Bachelor's Information Systems. I’m passionate for technology and programming.
   
