@@ -2,7 +2,7 @@
 
 ### Who am I?
 <p>Software developer, brazilian living in Lisbon/Portugal.
-<p>Gaduated in Information Systems and two other degrees in Human Resources and a MBA in People's Management.
+<p>Graduated in Information Systems and two other degrees in Human Resources and a MBA in People's Management.
 <p>I’m passionate for technology and programming.
   
 Here you will find a lot of stuffs that I created for the past years.
