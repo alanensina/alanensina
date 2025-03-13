@@ -1,7 +1,7 @@
 # Hello everybody!
 
 ### Who am I?
-<p>Software developer, brazilian living in Dublin/Ireland.
+<p>Software developer, Brazilian living in Dublin/Ireland.
 <p>Graduated in Information Systems and two other degrees in Human Resources and a MBA in People's Management.
 <p>I’m passionate for technology and programming.
   
