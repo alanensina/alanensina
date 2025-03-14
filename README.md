@@ -1,15 +1,9 @@
 # Hello everybody!
 
 ### Who am I?
-<p>Software developer, Brazilian living in Dublin/Ireland.
-<p>Graduated in Information Systems and two other degrees in Human Resources and a MBA in People's Management.
-<p>I’m passionate for technology and programming.
-  
-Here you will find a lot of stuffs that I created for the past years.
-
-I hope that you enjoy.
-
-If you need to contact me, send me a message on my social media:
+Hi! I'm Alan, Software developer, Brazilian living in Dublin/Ireland. I'm a passionate software developer with a strong focus on Java and backend technologies. I enjoy building scalable and efficient applications, leveraging frameworks like Spring Boot for microservices and API development.
+With a formal education in Information Systems, along with degrees in Human Resources and an MBA in People Management, I combine technical expertise with a strong understanding of team dynamics and leadership.
+I'm always eager to learn, experiment with new technologies, and contribute to innovative projects. Let's connect and build something amazing together! 🚀
 
 <a href="https://www.linkedin.com/in/alanensina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alanvinicius.ce@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
